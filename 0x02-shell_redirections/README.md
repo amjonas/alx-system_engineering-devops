@@ -9,4 +9,5 @@
 5. I'd prefer the first ones actually -> Displays the first 10 lines of a file
 5. I'd prefer the first ones actually -> Displays the first 10 lines of a file
 5. I'd prefer the first ones actually -> Displays the first 10 lines of a file
+6. Line #2 -> A script that displays the third line of the file iacta
 
