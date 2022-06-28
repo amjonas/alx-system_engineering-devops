@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-shell redirections
-=======
-shell ridirections task(s)
->>>>>>> 89c059c8a1f9cffe4b2460051925cf949c2f6840
+# Shell I/O Redirections and Filters
+0. Hello World -> A script that prints "Hello, World", followed by a new line to the standard uotput.
+1. Confused Smiley -> A script that dispalys a confused smiley
