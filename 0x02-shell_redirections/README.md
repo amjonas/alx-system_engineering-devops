@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 shell redirections
+=======
+shell ridirections task(s)
+>>>>>>> 89c059c8a1f9cffe4b2460051925cf949c2f6840
